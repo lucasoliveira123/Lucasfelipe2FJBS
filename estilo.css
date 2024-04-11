@@ -8,7 +8,7 @@
 
 
 .cabecalho{
-background-color: #424e61;
+background-color: #383D58;
 display: flex;
 justify-content: space-around;
 align-items: center;
@@ -17,13 +17,37 @@ padding: 24px 0%;
 
 }
 
+.lista-item{
+   display: inline-block;
+   padding: 23px;
+   font-size: 23px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+
+
+.titulo-um{
+   color: #ffffff;
+}
+ 
+.titulo-dois{
+    color: #ffffff;
+}
 
 
 
 
-.primeira parte{
-    background-image: linear-gradient(#424e61,#4EBFE9);
-   height: 500px;
-   color: white;
-   padding: 100px;
+
+
+
+
+.primeira-parte{
+   background-image:linear-gradient(#383D58,#4ebfe9);
+   color: #ffffff
+
+
+
+
 }
