@@ -44,15 +44,22 @@ padding: 24px 0%;
 }
 
 .logo-twitter{
-   width: 15%;
+   width: 30px;
+padding: 4px 8px;
 }
+
 
 .logo-github{
-   width: 15%;
+   width: 30px;
+padding: 4px 8px;
 }
-
+.estudante-particular{
+   max-width: 600px;
+   width: 100%;
+}
 .logo-instagram{
-   width: 15%;
+   width: 30px;
+padding: 4px 8px;
 }
 
 
@@ -64,13 +71,28 @@ padding: 24px 0%;
 
 .primeira-parte{
    background-image:linear-gradient(#383D58,#4ebfe9);
-   color: #ffffff
+   color: #ffffff;
    display: flex;
    justify-content: center;
-   aling-items: center;
+   align-items: center;
    padding: 100px;
-
-
-
 }
+
+
+
+.estudante-geral{
+display: grid;
+grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
 
