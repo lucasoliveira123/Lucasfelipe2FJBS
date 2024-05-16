@@ -82,14 +82,31 @@ padding: 4px 8px;
 
 .estudante-geral{
 display: grid;
-grid-template-columns: 20% 20% 20% 20% 20%;
+grid-template-columns: 25% 25% 25% 25% 25%;
 }
 
 
+.rodape{
+   background-color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 
+}
 
+.logo{
+   width: 10%;
+}
 
+a:hover{
+color: chartreuse;
 
+}
+
+a{
+color: white;
+text-decoration: none;
+}
 
 
 
